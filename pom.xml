@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.codewithzaar</groupId>
 	<artifactId>employee-system-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>employee-system-api</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
